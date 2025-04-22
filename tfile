@@ -20,8 +20,8 @@ rngd
 ec2-instance-connect
 postfix
 rpcuser
-nfsnobody
-chrony
-tcpdump
+sri3
+sri2
+sri1
 ec2-user
 sri
