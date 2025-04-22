@@ -21,5 +21,4 @@ ec2-instance-connect
 postfix
 rpcuser
 ec2-user
-sri
-commit2
+sri2
