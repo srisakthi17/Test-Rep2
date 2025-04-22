@@ -20,5 +20,5 @@ rngd
 ec2-instance-connect
 postfix
 rpcuser
-sri3
+ec2-user
 sri4
