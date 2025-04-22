@@ -22,3 +22,6 @@ postfix
 rpcuser
 nfsnobody
 chrony
+tcpdump
+ec2-user
+sri
