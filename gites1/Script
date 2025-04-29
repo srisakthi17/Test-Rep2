@@ -1,3 +1,4 @@
 echo "Enter some runtime variable"
 echo "below is the value that has entered"
-echo "run time value is $runtimevar"
+echo "first value is $1"
+echo "second value is $2"
